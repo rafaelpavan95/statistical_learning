@@ -3,5 +3,5 @@ Reposiório destinado às atividades de livros para o aprendizado de estatístic
 
 ## Book: An Introduction to Statistics With Python
 
-- Statistical Plots
-- Continuous and Discrete Distributions
+- [Statistical Plots](https://github.com/rafaelpavan95/statistical_learning/blob/main/Statitical_Plots.ipynb)
+### - [Continuous and Discrete Distributions](https://github.com/rafaelpavan95/statistical_learning/blob/main/Continuous_Discrete_Distributions.ipynb)
