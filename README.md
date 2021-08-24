@@ -1,4 +1,4 @@
-# statistics_learning
+# statistical_learning
 Reposiório destinado às atividades de livros para o aprendizado de estatística.
 
 ## Book: An Introduction to Statistics With Python
