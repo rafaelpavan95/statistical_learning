@@ -6,3 +6,4 @@ Reposiório destinado às atividades de livros para o aprendizado de estatístic
 ### - [Statistical Plots](https://github.com/rafaelpavan95/statistical_learning/blob/main/Statistical_Plots.ipynb)
 ### - [Continuous and Discrete Distributions](https://github.com/rafaelpavan95/statistical_learning/blob/main/Continuous_Discrete_Distributions.ipynb)
 ### - [Tests Of Mean Of Numerical Data](https://github.com/rafaelpavan95/statistical_learning/blob/main/Hypothesis_Tests.ipynb)
+### - [Statistical Modeling](https://github.com/rafaelpavan95/statistical_learning/blob/main/modelagem_regressao.ipynb)
